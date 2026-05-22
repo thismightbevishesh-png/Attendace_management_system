@@ -48,21 +48,12 @@
 <img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(44).png">
 
 
-### How it works? See:)
-
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/AMS.gif">
-
-### Video demo
-
-[Youtube](https://www.youtube.com/watch?v=dXViSRRydRs)
 
 
-### Notes
-- It will require high processing power(I have 8 GB RAM & 2 GB GC)
-- If you think it will recognise person just like humans,than leave it ,its not possible.
-- Noisy image can reduce your accuracy so quality of images matter.
 
-## Just follow☝️ me and Star⭐ my repository 
+
+
+
 
 ## Read our Machine learning & Data science related blogs:- [Here](https://www.vruttitanna.com/post/why-kaggle-is-important-for-data-science)
 
